@@ -21,10 +21,10 @@ Neste projeto, apliquei conceitos como:
 - Manipulação de listas
 
 ## ▶️ Como executar
-1. Clone o repositório:
-2. Abra no Visual Studio Code
-3. Execute o arquivo `Main.java`
 
+1. Clone o repositório:
+```bash
+git clone https://github.com/PalomaAraujo03/banco-java.git
 ---
 
 👩‍💻 Projeto desenvolvido para prática e aprendizado em Java.
