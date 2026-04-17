@@ -21,7 +21,6 @@ Neste projeto, apliquei conceitos como:
 - Manipulação de listas
 
 ## ▶️ Como executar
-
 1. Clone o repositório:
 ```bash
 git clone https://github.com/PalomaAraujo03/banco-java.git
